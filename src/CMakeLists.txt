@@ -17,6 +17,7 @@ add_executable(xenomods
 		xenomods/menu/Section.cpp
 		xenomods/menu/Option.cpp
 
+		xenomods/modules/AudioUtils.cpp
 		xenomods/modules/DebugStuff.cpp
 		xenomods/modules/CameraTools.cpp
 		xenomods/modules/RenderingControls.cpp
